@@ -10,7 +10,7 @@ A quantum physics-based multiplayer .io game where players control quantum parti
 
 ## Features
 
-- Quantum particle/wave duality
+- Quantum particle/wave modes
 - Player entanglement
 - Energy collection
 - Special quantum abilities
